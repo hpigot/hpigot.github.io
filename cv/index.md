@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CV - Harry Pigot
+title: CV
 ---
 {{ page.title }}
 ===
