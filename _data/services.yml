@@ -1,7 +1,7 @@
 - menu_name: "Services"
 
 - name: "Contact"
-  url: "<https://mailto:contact@harrypigot.com"
+  url: "mailto:contact@harrypigot.com"
   title: "Email Harry"
 
 - name: "RSS"
