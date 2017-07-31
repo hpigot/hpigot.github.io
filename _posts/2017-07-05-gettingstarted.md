@@ -3,6 +3,8 @@ layout: page
 title: "Getting Started"
 teaser: "Teaching programming and electronics at SMD school in Kathmandu, Nepal."
 header: no
+category:
+    - nepal
 ---
 
 In 2010, I visited [Shree Mangal Dvip Boarding School](https://www.himalayanchildren.org/) in Kathmandu, Nepal. SMD provides a home and education to children from remote Himilayan communities, as well as local monks and day students. The school focuses on preserving the Tibetan language and culture of the region. I was awe-struck by the joy and vivacity of the children there, as well as the dedication of the people working at the school. The school encourages capable and motivated senior students to pursue full scholarships abroad for grades 11 and 12, as well as university; in doing so, the students sign an agreement with the school's founder to return and give service in their home villages or SMD.
