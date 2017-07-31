@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "A Little Background..."
-teaser: "How I decided to teach programming and electronics at SMD school in Kathmandu, Nepal."
+teaser: "How I decided to teach programming and electronics at SMD school in Kathmandu."
 header: no
 category:
     - nepal
