@@ -25,9 +25,11 @@ A key part of what I hope to do at SMD is to connect the school to the existing 
 *	[Robotics Association of Nepal](https://www.facebook.com/nepal.ran)
 *	[Innovation Hub Kathmandu](http://fncci.org/innovation-hub-159.html)
 
-Another critical step in preparation for leaving for Nepal was to purchase components and tools that will be used in the activities. The postal service is unreliable in Nepal, and I wanted to order inexpensive parts directly from China, or buy from reputable sellers here in Canada. Everything has been packed into my carry-on luggage. Not having a clear idea of what activities I will run, I decided to purchase a broad range of general components that will enable activities using Arduino microcontrollers and Raspberry Pi single-board computers. Both are tools specifically designed for education and have strong online communities. Geering Up recommended 5-10 students for a single instructor, so I chose to purchase quantities to accommodate those numbers. Components that are easily broken, lost, or very inexpensive in quantity were bought in higher numbers (i.e. resistors, LEDs, buttons).
+Another critical step in preparation for leaving for Nepal was to purchase components and tools that will be used in the activities. The postal service is unreliable in Nepal, and I wanted to order inexpensive parts directly from China, or buy from reputable sellers here in Canada. Everything has been packed into my carry-on luggage. Not having a clear idea of what activities I will run, I decided to purchase a broad range of general components that will enable activities using [Arduino][4] microcontrollers and [Raspberry Pi][5] single-board computers. Both are tools specifically designed for education and have strong online communities. Geering Up recommended 5-10 students for a single instructor, so I chose to purchase quantities to accommodate those numbers. Components that are easily broken, lost, or very inexpensive in quantity were bought in higher numbers (i.e. resistors, LEDs, buttons).
 
 [1]: https://www.himalayanchildren.org/
 [2]: https://en.wikipedia.org/wiki/Maker_culture
 [3]: https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics
+[4]: https://www.arduino.cc/en/Guide/Introduction
+[5]: https://www.raspberrypi.org/about/
 [proposal]: /files/nepalproposal.pdf
