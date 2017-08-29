@@ -22,16 +22,15 @@ $body-bg: 			#fdfdfd;
 
 
 /* Corporate Identity Colorpalette
-   https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
+   https://color.adobe.com/Mitt-Color-tema-color-theme-9921481/
 ------------------------------------------------------------------- */
 
-$ci-1: #334D5C;		// dark turquoise
-$ci-2: #45B29D;		// turquoise
-$ci-3: #EFC94C;		// yellow
-$ci-4: #E27A3F;		// orange
-$ci-5: #DF4949;		// red
-$ci-6: #A1D044;     // green
-
+$ci-1: #0C3DE8;		// cobalt 
+$ci-2: #0D82FF;		// blue-turquoise
+$ci-3: #9B0DFF;		// magenta
+$ci-4: #0B00FF;		// blue
+$ci-5: #510CE8;		// purple
+$ci-6: #8052E8;     // light-purple
 
 
 /* Foundation Color Variables
@@ -106,7 +105,7 @@ $topbar-menu-icon-color-toggled: $ci-6;
 
 $footer-bg: $grey-8;
 $footer-color: #fff;
-$footer-link-color: $ci-6;
+$footer-link-color: $ci-1;
 
 
 $subfooter-bg: $grey-13;
