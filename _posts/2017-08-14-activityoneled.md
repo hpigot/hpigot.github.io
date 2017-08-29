@@ -6,7 +6,7 @@ header: no
 image: 
     title: a1.jpg
     thumb: a1thumb.jpg
-    caption: Success! Students discover how to light up a two LEDs.
+    caption: Success! Students discover how to light up two LEDs.
 category:
     - nepal
 gallery:
