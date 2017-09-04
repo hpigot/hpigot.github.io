@@ -47,9 +47,8 @@ The activity focused on introducing the students to the concept of electricity a
 
 The lesson has been created as a [Free Cultural Work][] available for use and adaption under the [CC BY-SA 4.0][] license:
 
-### [Activity 1 Lesson Plan][lesson plan] | [Activity 1 Student Handout][handout]
-
----
+* [**Activity 1 Lesson Plan**][lesson plan]
+* [**Activity 1 Student Handout**][handout]
 
 Our goal was to make the activity transferable to a variety of resource-limited settings by designing for the following constraints:
 
