@@ -32,7 +32,7 @@ This past weekend the students got an introduction to programming by using a mic
 
 During Activity 2 on Saturday the students used a visual programming tool to build their instructions for the [Arduino][] [UNO][] microcontroller board. On Sunday, for Activity 3, they extended their programs to control a Red-Green-Blue LED. We had 111 students express interest in attending. Activity 2 had 72 participants, followed by 69 for Activity 3, with a gender distribution of 58 boys and 84 girls (41%:59%)[^1]. On each day we divided them into four 1-hour sessions by grade. Eight teaching sessions made for a fast-paced weekend.
 
-The lessons have been created as [Free Cultural Works][] and are available for use and adaption under the [CC BY-SA 4.0][] license:
+The activities have been created as [Free Cultural Works][] and are available for use and adaption under the [CC BY-SA 4.0][] license:
 
 *	[**Activity 2 Lesson Plan**][lesson plan 2]
 *	[**Activity 2 Student Handout**][handout 2]
