@@ -35,6 +35,7 @@ gallery2:
       caption: 
     - image_url: /activity7/0004.jpg
 ---
+
 {% include gallery1 %}
 
 On August 21, we had students vote on 5 possible names for our STEM group. From this, we adopted Himalayan Makers Guild as the official title for the student club.
