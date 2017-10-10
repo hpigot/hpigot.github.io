@@ -137,7 +137,7 @@ The leaders really stepped up to the plate to help out their group-mates during 
 
 ### Makerspace in a Box
 
-Space is a big constraint at [SMD][] school. We get around this by using an empty classroom or the computer lab for the activities, but we still need a place to store and organize all of our parts and tools. The solution is a crude Makerspace-In-A-Box. We've managed to fit many of the goodies you'd hope to find at a Makerspace into two aluminum boxes that we can secure with padlocks and store next to our desks in the school office. Before each activity we transfer the things we need from the boxes to the classroom. All of our parts and tools as of 2017-10-09 are listed in [this spreadsheet][parts].
+Space is a big constraint at [SMD][] school. We get around this by using an empty classroom or the computer lab for the activities, but we still need a place to store and organize all of our parts and tools. The solution is a crude Makerspace-In-A-Box. We've managed to fit many of the goodies you'd hope to find at a Makerspace into two aluminum boxes that we can secure with padlocks and store next to our desks in the school office. Before each activity we transfer the things we need from the boxes to the classroom. All of our parts and tools as of 2017-10-09 are listed in [this spreadsheet][parts] (or as [.xlsx][partsxlsx]).
 
 {% include gallery-3x-2 %}
 
@@ -153,7 +153,7 @@ The procedure for bringing on new club members still needs to be setup. Our init
 
 #### Resources and Funding
 
-Transparency is a key tenet of the Himalayan Makers Guild, and Maker culture in general. All cashflow for the club has been documented and is publicly available [here][cashflow]. The club has been funded by private donations and a sponsorship generously provided by the [UBC Faculty of Applied Science](https://apsc.ubc.ca/). The funding of the club is something we've told the members about, however the ongoing financial demands of the club will need to be addressed. We hope to continue to find interested donors, and perhaps a few key sponsors willing to make an ongoing contribution. Funds management is a responsibility that we will discuss in greater detail with the Team Leaders, and eventually transfer to them entirely.
+Transparency is a key tenet of the Himalayan Makers Guild, and Maker culture in general. All cashflow for the club has been documented and is publicly available [here][cashflow] (or as [.xlsx][cashflowxlsx]). The club has been funded by private donations and a sponsorship generously provided by the [UBC Faculty of Applied Science](https://apsc.ubc.ca/). The funding of the club is something we've told the members about, however the ongoing financial demands of the club will need to be addressed. We hope to continue to find interested donors, and perhaps a few key sponsors willing to make an ongoing contribution. Funds management is a responsibility that we will discuss in greater detail with the Team Leaders, and eventually transfer to them entirely.
 
 [^1]: SMD has a nearly equal gender distribution among boarding students, with 175 boys and 174 girls. The gender distribution among the Himalayan Makers Guild members is 25 boys and 37 girls (40%:60%).
 
@@ -169,3 +169,5 @@ Transparency is a key tenet of the Himalayan Makers Guild, and Maker culture in 
 [Activity 7]: /nepal/activity7
 [parts]: /files/20171009 HMG Parts and Tools.ods
 [cashflow]: /files/20171010 HMG Cashflow.ods
+[partsxlsx]: /files/20171009 HMG Parts and Tools.xlsx
+[cashflowxlsx]: /files/20171010 HMG Cashflow.xlsx
