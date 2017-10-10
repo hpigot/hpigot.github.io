@@ -2,10 +2,10 @@
 layout: page
 title: "Starting a Maker Club"
 teaser: "Forming the Himalayan Makers Guild: choosing the club name, designing the logo, membership commitment, and training student Team Leaders."
+image:
+   thumb: /clubsetup/logofinal-thumb.jpg
 header:
     image_fullwidth: /clubsetup/logo.png
-    caption: 
-    caption_url:
 category:
     - nepal
 gallery-3x-0:
