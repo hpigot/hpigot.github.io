@@ -49,6 +49,17 @@
 {% elsif page.header.image_fullwidth %}
 
 <div id="masthead">
+	<!-- no logo -->
+</div><!-- /#masthead -->
+
+{% if page.breadcrumb == true %}
+{% include _breadcrumb.html %}
+{% endif %}
+
+
+{% elsif page.header.image_fullwidth_logo %}
+
+<div id="masthead-with-logo">
 	<div class="row">
 		<div class="small-12 columns">
 			<a id="logo" href="{{ '/' | absolute_url }}" title="{{ site.title }} – {{ site.slogan }}">
@@ -61,6 +72,7 @@
 {% if page.breadcrumb == true %}
 {% include _breadcrumb.html %}
 {% endif %}
+
 
 {% if page.header.caption_url && page.header.caption %}
 <div class="masthead-caption">
