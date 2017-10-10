@@ -42,9 +42,9 @@ gallery1:
     - image_url: activity7/0006.jpg
       caption: Team Leader Pasang Tsomo (grade 6) testing the conductivity of a coin with another HMG member.
     - image_url: activity7/0016.jpg
-      caption: Team Leader Karma Youden (grade 4) helping distribute parts for [Activity 7][].
+      caption: Team Leader Karma Youden (grade 4) helping two younger team members debug their buzzer circuit Activity 7.
     - image_url: clubsetup/leaders/12.jpg
-      caption: Karma Youden (grade 4) helping two younger team members debug their buzzer circuit [Activity 7][].
+      caption: Karma Youden (grade 4) helping distribute parts for Activity 7.
     - image_url: clubsetup/leaders/13.jpg
       caption: Team Leader Tsewang Gyalzen (grade 7) helping another member map conductivity on a breadboard.            
 gallery-3x-2:
@@ -68,7 +68,7 @@ In this post I also discuss how we [host the club](#makerspace-in-a-box) in a sp
 
 ### 1. Building a Club Identity
 
-Tashi Choeden and I discussed a few possible names for the club, and the students voted on which one they liked the most. They chose to name the club the **Himalayan Makers Guild**.
+Tashi Choeden and I discussed a few possible names for the club, and the students voted on which one they liked the most. They chose to name the club the **Himalayan Makers Guild** (HMG).
 
 * **H**:  Most of the boarding students at [SMD][] come from remote villages in the [Himalayas][]
 * **M**:  A [maker][] is someone with a passion for creating new things, learning, and sharing
@@ -83,11 +83,11 @@ After choosing the name, we set out to design a logo for the club. We wanted to 
 {% include gallery-3x-0 %}
 
 
-_The evolution of our logo design._
+_The progression of our logo design._
 
 ### 2. Defining Club Membership
 
-We opened membership to all students from grades 4-9. Grade 4 seemed to be a good lower-bound in terms of maturity and English language ability, and the eldest students (grade 10) are asked to focus solely on their studies, making grade 9 the upper bound. We defined five membership expectations:
+We opened membership to all students from grades 4-9. Grade 4 is a good lower-bound in terms of maturity and English language ability, and the eldest students (grade 10) are asked to focus solely on their studies, making grade 9 the upper bound. We defined five membership expectations:
 
   1.  Attend every activity, or notify a club leader 1 day in advance if you will be absent
   2.  Do any tasks that are assigned as homework
@@ -95,7 +95,7 @@ We opened membership to all students from grades 4-9. Grade 4 seemed to be a goo
   4.  Present your ideas to the group in English
   5.  Be respectful of the ideas and opinions of others
 
-All 63 club members signed and dated their [agreement][] to these expectations. The consequence of breaking the agreement was made clear: members have two strikes, then they'll be given one more chance to show their commitment to the club by performing some task of our choosing. If they choose not to do that task, they forfeit their membership and can reapply during the next on-boarding (every two months). The goal of these expectations is to ensure the students' commitment and give them the sense of becoming a part of something official. To that end, we also gave each member a Himalayan Makers Guild folder to act as a sort of membership card where they could keep their activity handouts.
+All 63 club members signed and dated their [agreement][] to these expectations. The consequence of breaking the agreement was made clear: members have two strikes, then they'll be given one more chance to show their commitment to the club by performing some task of our choosing. If they choose not to do that task, they forfeit their membership and can reapply at a later date. The goal of these expectations is to ensure the students' commitment and give them the sense of becoming a part of something official. To that end, we also gave each member a Himalayan Makers Guild folder to act as a sort of membership card where they can keep their activity handouts.
 
 ### 3. Selecting and Training Student Leaders
 
@@ -110,13 +110,13 @@ The positions were open to all club members, and we asked them to answer two que
 1. In your own words, what is the goal of the Himalayan Makers Guild, and how can you help reach that goal as a Team Leader?
 2. What are your strengths that will help you be a good Team Leader?
 
-We considered their responses to the application questions lightly; they were really intended to limit applicants to those students who were really interested and willing to go to the effort of applying. We made our decisions based on a mix of their abilities, demonstrated dedication to the club, and their potential for personal growth through the leadership opportunity. It was very difficult to choose. We had 20 students apply, 10 boys and 10 girls. We were actually only planning to select 8 students, two for each session, but we ended up with 11.
+The purpose of the questions was primarily to limit the applicants to those who would go to the effort of answering them. We made our decisions based on a mix of their abilities, demonstrated dedication to the club, and their potential for personal growth through the leadership opportunity. It was difficult to choose. We had 20 students apply, 10 boys and 10 girls[^1]. We were actually only planning to select 8 students, two for each session, but we ended up with 11.
 
 {% include gallery %}
 
 _School photos of each of the Team Leaders._
 
-Prior to selecting the leaders, we had divided up the students into the four sessions according to grade so we could accommodate differences in ability between the age groups. We changed our approach after selecting the student leaders, redistributing the groups to be a mix of classes. Our reasoning is that together with the help of the student leaders, students who are excelling will be able to support those in the group who are having a hard time, regardless of their age. We tried to pair up older and younger student leaders into the same group, as well as having mix of genders. The new session groups, leaders, and were posted as a [notice](/images/clubsetup/groups.jpg) on the school bulletin board.
+Prior to selecting the leaders, we had divided up the students into four sessions according to grade so we could accommodate differences in ability between the age groups. We changed our approach after selecting the student leaders, redistributing the groups to be a mix of classes. Our reasoning is that together with the help of the student leaders, students who are excelling will be able to support those in the group who are having a hard time, regardless of their age. We tried to pair older and younger student leaders for each group, as well as having a mix of genders. The new groups, their leaders, and the session start times were posted as a [notice](/images/clubsetup/groups.jpg) on the school bulletin board.
 
 |         | Leader Name     | Grade | Gender |         | Leader Name       | Grade | Gender |
 |---------|-----------------|-------|--------|---------|-------------------|-------|--------|
@@ -129,15 +129,15 @@ Prior to selecting the leaders, we had divided up the students into the four ses
 |         | Karma Nyima     | 9     | Male   |         | Tenzin Norbu      | 7     | Male   |
 |         |                 |       |        |         | Tsewang Gyalzen   | 7     | Male   |
 
-We've done one activity since selecting the Team Leaders and it went very well. On the Thursday before the activity, we met with the leaders. We reviewed what their position means, and reminded them that their job is to represent the best interests of all the club members. After explaining the new group-structure, we asked them to pay special attention to the younger kids to make sure they're understanding the material as well as the older kids and getting any extra support they may need. We also talked about how to answer questions by helping their peers reach their own conclusions, rather than just telling them the answer or immediately showing them how to do something.
+We've done one activity since selecting the Team Leaders and it went very well. On the Thursday before the activity, we met with the leaders. We reviewed what their position means, and reminded them that their job is to represent the best interests of all the club members. After explaining the new group structure, we asked them to pay special attention to the younger kids to make sure they're understanding the material as well as the older kids and getting any extra support they may need. We also talked about how to answer questions by helping their peers reach their own conclusions, rather than just telling them the answer or immediately showing them how to do something.
 
-The leaders really stepped up to the plate to help out their group-mates during [Activity 7][], having already gone through it and asked questions during our Thursday preview. Their help with organizing the students and taking attendance helped things move smoothly. It was great to see the older leaders mentoring the younger leaders, and the those leaders in-turn helping out the younger students.
+The leaders really stepped up to the plate to help out their group-mates during [Activity 7][], having already gone through it and asked questions during the Thursday preview. Their help with organizing the students and taking attendance helped things move smoothly. It was great to see the older leaders mentoring the younger leaders, and the those leaders in-turn helping out the younger students.
 
 {% include gallery1 %}
 
 ### Makerspace in a Box
 
-Hosting the club We chose to run the activities on Saturday during the students' free time. Space is a big constraint here at [SMD][] school. We get around this by using an empty classroom or the computer lab for the activities, but we still need a place to store and organize all of our parts and tools. The solution is a crude Makerspace-In-A-Box. We've managed to fit many of the goodies you'd hope to find at a Makerspace into two aluminum boxes that we can secure with padlocks and store next to our desk in the school office. Before each activity we transfer the things we need from the boxes to the classroom. All of our parts and tools of 2017-10-09 are listed in [this spreadsheet][parts].
+Space is a big constraint at [SMD][] school. We get around this by using an empty classroom or the computer lab for the activities, but we still need a place to store and organize all of our parts and tools. The solution is a crude Makerspace-In-A-Box. We've managed to fit many of the goodies you'd hope to find at a Makerspace into two aluminum boxes that we can secure with padlocks and store next to our desks in the school office. Before each activity we transfer the things we need from the boxes to the classroom. All of our parts and tools as of 2017-10-09 are listed in [this spreadsheet][parts].
 
 {% include gallery-3x-2 %}
 
@@ -145,17 +145,18 @@ Hosting the club We chose to run the activities on Saturday during the students'
 
 #### Documentation
 
-Although each activity has been documented, we haven't established a workflow for the students themselves make changes or additions. The situation here is different than what one would expect to find in Canada; the students don't have regular access to computers, so making the documents available on a cloud-drive for team editing isn't a feasible option. The solution will most likely combine hard-copy markup, with one person responsible for updating the digital copies at regular intervals.
+Although each activity has been documented, we haven't established a workflow for the students themselves make changes or additions. The students here don't have regular access to computers, so making the documents available on a cloud-drive for collaboration isn't a feasible option. The solution will most likely combine hard-copy markup, with one person responsible for updating the digital copies at regular intervals.
 
-#### On-boarding and Team Management
+#### Onboarding and Team Management
 
-The procedure for bringing on new club members still needs to be setup. Our initial thought was to do this every two months. We would like the Team Leaders do introductory activities with the new members, so they have the same background as the existing members and will be able to comfortably participate in the subsequent activities. The issue of changing Team Leaders will also need to be addressed in the coming months.
+The procedure for bringing on new club members still needs to be setup. Our initial thought was to do this every two months. We would like the Team Leaders do introductory activities with the new members, so they have a comparable background to the existing members and will be able to comfortably participate in the subsequent activities. The issue of changing Team Leaders will also need to be addressed in the coming months.
 
 #### Resources and Funding
 
-Transparency is a key tenet of the Himalayan Makers Guild, and Maker culture in general. All cashflow for the club has been documented and is publicly available [here][cashflow]. The club has been funded by private donations and a sponsorship generously provided by the [UBC Faculty of Applied Science](https://apsc.ubc.ca/). The funding of the club is something we've told the members about, however the ongoing financial demands of the club will need to be addressed. We hope to continue to find interested donors, and perhaps a few key sponsors willing to make an ongoing contribution. Management of funds is responsibility that we will discuss in greater detail with the Team Leaders, and eventually transfer to them entirely.
+Transparency is a key tenet of the Himalayan Makers Guild, and Maker culture in general. All cashflow for the club has been documented and is publicly available [here][cashflow]. The club has been funded by private donations and a sponsorship generously provided by the [UBC Faculty of Applied Science](https://apsc.ubc.ca/). The funding of the club is something we've told the members about, however the ongoing financial demands of the club will need to be addressed. We hope to continue to find interested donors, and perhaps a few key sponsors willing to make an ongoing contribution. Funds management is a responsibility that we will discuss in greater detail with the Team Leaders, and eventually transfer to them entirely.
 
-[nesta]: http://www.nesta.org.uk/sites/default/files/young-digital-makers-march-2015.pdf
+[^1]: SMD has a nearly equal gender distribution among boarding students, with 175 boys and 174 girls. The gender distribution among the Himalayan Makers Guild members is 25 boys and 37 girls (40%:60%).
+
 [activity1]: /nepal/activity1
 [SMD]: https://www.himalayanchildren.org/
 [maker]: https://en.wikipedia.org/wiki/Maker_culture
