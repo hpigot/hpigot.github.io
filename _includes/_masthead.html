@@ -3,7 +3,7 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="{{ site.url }}" title="{{ site.title }} – {{ site.slogan }}">
+			<a id="logo" href="{{ '/' | absolute_url }}" title="{{ site.title }} – {{ site.slogan }}">
 				<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}">
 			</a>
 		</div><!-- /.small-12.columns -->
@@ -44,15 +44,16 @@
 
 
 
+	
 
-
+/*
 {% elsif page.header.image_fullwidth %}
 
 <div id="masthead">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="{{ site.url }}" title="{{ site.title }} – {{ site.slogan }}">
-				<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}" alt=""> <!-- logo removed to allow fullwidth image without logo -->
+			<a id="logo" href="{{ '/' | absolute_url }}" title="{{ site.title }} – {{ site.slogan }}">
+				<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -61,7 +62,7 @@
 {% if page.breadcrumb == true %}
 {% include _breadcrumb.html %}
 {% endif %}
-
+*/
 
 {% if page.header.caption_url && page.header.caption %}
 <div class="masthead-caption">
