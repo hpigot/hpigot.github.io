@@ -3,9 +3,9 @@ layout: page
 title: "Starting a Maker Club"
 teaser: "A reflection on the past two months spent developing a Maker Club at SMD Boarding School in Kathmandu. How we chose the club name and logo, defined membership, and trained student leaders."
 image:
-   thumb: /clubsetup/logofinal-thumb.jpg
+   thumb: "/clubsetup/logofinal-thumb.jpg"
 header:
-    image_fullwidth: /clubsetup/banner.jpg
+    image_fullwidth: "/clubsetup/banner.jpg"
 category:
     - nepal
 gallery-3x-0:
