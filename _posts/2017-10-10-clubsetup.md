@@ -131,7 +131,7 @@ Prior to selecting the leaders, we had divided up the students into four session
 
 We've done one activity since selecting the Team Leaders and it went very well. On the Thursday before the activity, we met with the leaders. We reviewed what their position means, and reminded them that their job is to represent the best interests of all the club members. After explaining the new group structure, we asked them to pay special attention to the younger kids to make sure they're understanding the material as well as the older kids and getting any extra support they may need. We also talked about how to answer questions by helping their peers reach their own conclusions, rather than just telling them the answer or immediately showing them how to do something.
 
-The leaders really stepped up to the plate to help out their group-mates during [Activity 7][], having already gone through it and asked questions during the Thursday preview. Their help with organizing the students and taking attendance helped things move smoothly. It was great to see the older leaders mentoring the younger leaders, and the those leaders in-turn helping out the younger students.
+The leaders really stepped up to the plate to help out their group-mates during [Activity 7][], having already gone through it and asked questions during the Thursday preview. Their help with organizing the students and taking attendance helped things move smoothly. It was great to see the older leaders mentoring the younger leaders, and those leaders in-turn helping out the younger students.
 
 {% include gallery1 %}
 
@@ -149,7 +149,7 @@ Although each activity has been documented, we haven't established a workflow fo
 
 #### Onboarding and Team Management
 
-The procedure for bringing on new club members still needs to be setup. Our initial thought was to do this every two months. We would like the Team Leaders do introductory activities with the new members, so they have a comparable background to the existing members and will be able to comfortably participate in the subsequent activities. The issue of changing Team Leaders will also need to be addressed in the coming months.
+The procedure for bringing on new club members still needs to be setup. Our initial thought was to do this every two months. We would like the Team Leaders to do introductory activities with the new members, so they have a comparable background to the existing members and will be able to comfortably participate in the subsequent activities. The issue of changing Team Leaders will also need to be addressed in the coming months.
 
 #### Resources and Funding
 
