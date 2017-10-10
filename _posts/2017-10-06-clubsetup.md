@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "Starting a Maker Club"
-teaser: "Forming the Himalayan Makers Guild: choosing the club name, designing the logo, membership commitment, and training student Team Leaders."
+teaser: "A reflection on the past two months spent developing a Maker Club at SMD Boarding School in Kathmandu. How we chose the club name and logo, defined membership, and trained student leaders."
 image:
    thumb: /clubsetup/logofinal-thumb.jpg
 header:
-    image_fullwidth: /clubsetup/logo.png
+    image_fullwidth: /clubsetup/banner.jpg
 category:
     - nepal
 gallery-3x-0:
@@ -56,13 +56,15 @@ gallery-3x-2:
       caption: Soldering equipment and Raspberry Pi computers.
 ---
 
-When I started doing hands-on electronics and programming activities with the students at [Shree Mangal Dvip Boarding School][SMD] (SMD) in August, my strategy was to just get _something_ started and make adjustments as I went along. Together with Tashi Choeden, I began by making a simple [LED light circuit][activity1] with the students. We chose to run the activities on Saturday during the students' free time. In the first few weeks attendance fluctuated between 20 and 75 students, and we split the students up into four 1-hour sessions to accommodate those numbers. The limitations of completely open attendance quickly became clear. Irregular attendance would limit the complexity of the topics we could explore, cause unequal distribution of class size between the four sessions, and make it difficult to prepare the right amount of materials.
+When I started doing hands-on electronics and programming activities with the students at [Shree Mangal Dvip Boarding School][SMD] (SMD) in August, my strategy was to just get _something_ started and make adjustments as I went along. Together with Tashi Choeden, a recent graduate from SMD, I began by making a simple [LED light circuit][activity1] with the students. We chose to run the activities on Saturday during the students' free time. In the first few weeks attendance fluctuated between 20 and 75 students, and we split the students up into four 1-hour sessions to accommodate those numbers. The limitations of completely open attendance quickly became clear. Irregular attendance would limit the complexity of the topics we could explore, cause unequal distribution of class size between the four sessions, and make it difficult to prepare the right amount of materials.
 
 Since then, we've formalized the activities under the banner of a "school club" which gives us a platform to rally the students around and help build their ownership of the initiative. This involved three parts: 
 
-1.  Club identity: choose a club name and logo that the students would be proud of.
-2.  Membership: focus the club around students who showed interest and would commit to participating every week.
-3.  Student leaders: select and train student leaders to help with both the day-to-day operation of the club and its sustainability.
+1.  [Club identity](#1-building-a-club-identity): choose a club name and logo that the students would be proud of.
+2.  [Membership](#2-defining-club-membership): focus the club around students who showed interest and would commit to participating every week.
+3.  [Student leaders](#3-selecting-and-training-student-leaders): select and train student leaders to help with both the day-to-day operation of the club and its sustainability.
+
+In this post I also discuss how we [host the club](#makerspace-in-a-box) in a space-limited setting, and some issues to address [moving forward](#moving-forward).
 
 ### 1. Building a Club Identity
 
@@ -135,7 +137,7 @@ The leaders really stepped up to the plate to help out their group-mates during 
 
 ### Makerspace in a Box
 
-Space is a big constraint here at [SMD][] school. We get around this by using an empty classroom or the computer lab for the activities, but we still need a place to store and organize all of our parts and tools. The solution is a crude Makerspace-In-A-Box. We've managed to fit many of the goodies you'd hope to find at a Makerspace into two aluminum boxes that we can secure with padlocks and store next to our desk in the school office. Before each activity we transfer the things we need from the boxes to the classroom. All of our parts and tools of 2017-10-09 are listed in [this spreadsheet][parts].
+Hosting the club We chose to run the activities on Saturday during the students' free time. Space is a big constraint here at [SMD][] school. We get around this by using an empty classroom or the computer lab for the activities, but we still need a place to store and organize all of our parts and tools. The solution is a crude Makerspace-In-A-Box. We've managed to fit many of the goodies you'd hope to find at a Makerspace into two aluminum boxes that we can secure with padlocks and store next to our desk in the school office. Before each activity we transfer the things we need from the boxes to the classroom. All of our parts and tools of 2017-10-09 are listed in [this spreadsheet][parts].
 
 {% include gallery-3x-2 %}
 
