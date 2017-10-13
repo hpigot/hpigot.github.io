@@ -56,6 +56,12 @@ gallery-3x-2:
       caption: Soldering equipment and Raspberry Pi computers.
 ---
 
+* **Sangay Bhuti, grade 9:** "I feel very proud of myself that I grabbed this opportunity. I'm learning a lot from Harry and Tashi, and I am very thankful to them. I know more about electronics, programming, and designing. I was suprised to see and learn how the lights work in my first class."
+* **Lhakpa Dolma, grade 9:** "Every Saturday, I get to learn new things about electronics. I have learned about lighting a bulb, turning on a buzzer and connecting circuits in parallel and series. My confidence has increased in developing technologies. This class truly inpired me to be creative and artistic."
+* **Tsering Dolkar, grade 7:** "It teaches me about electronics and how it functions. This class has not only improved my confidence, it has also developed my life skills. This gives me courage to face the difficulties in electronics."
+
+_Comments from Himalayan Makers Guild members on their experience with the club so far, published in the September issue of [The Thrangu Express][tte] student newsletter._
+
 When I started doing hands-on electronics and programming activities with the students at [Shree Mangal Dvip Boarding School][SMD] (SMD) in August, my strategy was to just get _something_ started and make adjustments as I went along. Together with Tashi Choeden, a recent graduate from SMD, I began by making a simple [LED light circuit][activity1] with the students. We chose to run the activities on Saturday during the students' free time. In the first few weeks attendance fluctuated between 20 and 75 students, and we split the students up into four 1-hour sessions to accommodate those numbers. The limitations of completely open attendance quickly became clear. Irregular attendance would limit the complexity of the topics we could explore, cause unequal distribution of class size between the four sessions, and make it difficult to prepare the right amount of materials.
 
 Since then, we've formalized the activities under the banner of a "school club" which gives us a platform to rally the students around and help build their ownership of the initiative. This involved three parts: 
@@ -171,3 +177,4 @@ Transparency is a key tenet of the Himalayan Makers Guild, and Maker culture in 
 [cashflow]: /files/20171010 HMG Cashflow.ods
 [partsxlsx]: /files/20171009 HMG Parts and Tools.xlsx
 [cashflowxlsx]: /files/20171010 HMG Cashflow.xlsx
+[tte]: https://www.himalayanchildren.org/thrangu-express-smd-student-paper/
