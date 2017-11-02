@@ -8,7 +8,8 @@ image:
     thumb: /soldering/0002-thumb.jpg
     caption: 
 category:
-    - nepal   
+    - nepal
+mediaplayer: true  
 ---
 
 I recently setup 10 soldering stations for a total cost of $105 CAD to use with the [Himalayan Makers Guild](/nepal/clubsetup) in an [introductory soldering activity](/nepal/activity8). Purchasing soldering equipment here in Nepal had its advantages and disadvantages. On one hand, it cost 1/4 of what it would have if I'd purchased the parts from Amazon, but a sacrifice was made in the quality of the tools. A detailed parts list and price comparison between buying in Kathmandu or online from AliExpress or Amazon is provided in this [spreadsheet][] (or as [.xlsx][xlsx]) along with links to purchase each item.
