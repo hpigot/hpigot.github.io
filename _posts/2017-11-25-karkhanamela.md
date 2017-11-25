@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Feild-Trip to Karkhana Mela"
+title: "Field-Trip to Karkhana Mela"
 teaser: "Taking the students to explore an exceptional Nepali education company."
 header: no
 image: 
