@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "New Member Recruitment"
-teaser: ""
+teaser: "The HMG Team Leaders select and train a group of new students, helping them integrate into the latest club activities."
 header: no
 image: 
     title: recruitment1/0004.jpg
@@ -81,19 +81,19 @@ gallery3:
       caption: 
 ---
 
-In November we recruited 11 new members into the [Himalayan Makers Guild (HMG)][HMG]. Taking on new members is an indispensable part of the club's sustainability and this was a great opportunity for the [Team Leaders][] of the club to take ownership of the formation of the club. They rose to the task splendidly, deciding on the number of new members, how prospective members would sign-up, the selection process, and finally training the new members to help them integrate into our latest club activities.
+In November we recruited 11 new members into the [Himalayan Makers Guild (HMG)][HMG]. Taking on new members is an indispensable part of the club's sustainability and this was a great opportunity for the [Team Leaders][] to take ownership of the club's future. They rose to the task splendidly, deciding on the number of new members, how prospective members would sign-up and be selected, and finally training the new members to help them integrate into our latest club activities.
 
-Over a period of 2 months after the formation of the club in September, 16 of the original 62 members (26%) have given up their membership. Ten of those students were asked to leave the club after missing more than two activities without giving prior notice, which is a condition they each agreed to when signing the [membership expectations][] document. Five more resigned from the club before missing more than two activities. The gender distribution changed from 60% female to 68% female, and this change was maintained after recruitment[^1].
+Over a period of 2 months after the formation of the club in September, 16 of the original 62 members (26%) have left the club. Ten of those students were lost their membership after missing more than two activities without giving prior notice, which is a condition they each agreed to when signing the [membership expectations][] document. Five more resigned from the club voluntarily before missing more than two activities. The gender distribution changed from 60% female to 68% female, and this change was maintained after recruitment[^1].
 
 ![membershipplot](/images/recruitment1/membershipplot.jpg)
 
-_A plot of total membership since the formation of the club, which was done just prior to Activity 6. New member recruitment was completed in time for Activity 13._
+_A plot of total membership since the formation of the club just prior to Activity 6 on September 16th, 2017. New member recruitment was completed in time for Activity 13 on December 16th._
 
-As boarding students, the children at [SMD school][SMD] follow a daily schedule denoted by bells and the mass movement of their peers. Generally, the students are unused to making a commitment outside of their usual schedule. Committing to a regularly occurring activity is made all the more difficult by events occurring on short notice as special guests visit the school. The students also defer to authority with little resistance; if asked by an adult to help with something while on their way to a club activity, they are unlikely to say no. Upholding their commitment to the club is part of the learning experience offered by the Himalayan Makers Guild.
+The students at [SMD school][SMD] follow a daily schedule denoted by bells and the mass movement of their peers. Generally, they are unused to making commitments outside of their usual schedule. Committing to a regularly occurring activity is made all the more difficult by events occurring on short notice as special guests visit the school. The students also defer to authority with little resistance; if asked by an adult to help with something while on their way to a club activity, they are unlikely to say no. Upholding their commitment to the club is part of the learning experience offered by the Himalayan Makers Guild.
 
 ## Recruitment Preparation
 
-To help the team leaders get started with the recruitment process, I asked them 4 questions:
+To help the Team Leaders get started with the recruitment process, I asked them 4 questions:
 
 1.	How many members should we have in the club, in total, if we currently have about 50?
 2.	How should students apply to be members?
@@ -106,9 +106,9 @@ _Team Leaders sharing their ideas about how to recruit new members_
 After some time discussing, they reached the following decisions:
 
 1.	The club should have 70 members maximum.
-2.	Students would apply by signing up and attending an introduction meeting where they are given details about the club, its activities, and the membership expectations.
+2.	Students would apply by signing up and attending an introduction meeting where they would hear details about the club, its activities, and the membership expectations.
 3.	If there were too many candidates at the introduction meeting, the students would be asked to answer questions relating to their interest and commitment, and would then be selected on the basis of their answers.
-4.	The new members would be trained by running some activities to teach them some key concepts. The activities would be taught by the Team Leaders during their free time after school.
+4.	The new members would be trained by running activities to teach them key concepts. The activities would be taught by the Team Leaders during their free time after school.
 
 From this first discussion, a few follow-up questions were raised regarding the timing and method for student sign-up and exactly how, when, and what the students would be taught in their introduction training. The Team Leaders decided to post a sign-up sheet with a description of the club, the membership expectations, and information about the introduction meeting. They wrote [this document][signupsheet] and posted it outside the dining hall 10 days before the meeting time:
 
@@ -120,11 +120,11 @@ To train the new members, Team leaders selected three key topics to address:
 2.	The rock-slide analogy of electricity and Ohm's Law
 3.	Soldering
 
-They chose to host 3 lessons to cover the material. Each lesson would take place for one hour after class during the students' free time, starting Sunday December 10th (after the winter holidays). The team leaders divided the responsibility for each topic between their [four sub-groups][leadergroups].
+They chose to host 3 lessons to cover the material. Each lesson would take place for one hour after class during the students' free time, starting Sunday December 10th (after the winter holidays). The Team Leaders divided the responsibility for each topic between their [four sub-groups][leadergroups].
 
 ## Information Meeting and New Member Selection
 
-About 21 people put their names down on the sign-up sheet. When the information meeting began on Thursday the following week, 10 of those students were present. Most of the students in attendance were from grade 4, with a couple from grades 8 and 9. The team leaders reviewed the membership expectations, and addressed any questions brought up by the attendees. Since fewer people showed up than we'd planned to recruit, the leaders decided to make them all members without any further deliberation. The team leaders explained the plan for new-member training, and confirmed that the timing of the sessions was possible for them.
+About 21 people put their names down on the sign-up sheet. When the information meeting began on Thursday the following week, 10 of those students were present. Most of the students in attendance were from grade 4, with a couple from grades 8 and 9. The Team Leaders reviewed the membership expectations, and addressed any questions brought up by the attendees. Since fewer people showed up than we'd planned to recruit, the leaders decided to make them all members without any further deliberation. The Team Leaders explained the plan for new-member training, and confirmed that the timing of the sessions was possible for them.
 
 ![infomeeting](/images/recruitment1/0003.jpg)
 _Team Leader Karma Nyima addressing new club members at the information meeting._
@@ -135,7 +135,7 @@ Finally, the leaders decided to accept any students who didn't attend the meetin
 
 ## New Member Training
 
-Considering that most of the new members were from grade 4, the team leaders revised their training plan from 3 to 5 one hour activities. I was very pleased to see them respond to the new information, and I think the extra time contributed to the overall success of their lessons. They decided on the following schedule:
+Considering that most of the new members were from grade 4, the Team Leaders revised their training plan from 3 to 5 one hour activities. I was very pleased to see them respond to the new information, and I think the extra time contributed to the overall success of their lessons. They decided on the following schedule:
 
 | Topic                              | Date          | Teachers             | Related Activity   |
 |------------------------------------|---------------|----------------------|--------------------|
@@ -155,13 +155,13 @@ At the last minute, two of the three grade 9 Team Leaders had to miss their trai
 ![karmateaching](/images/recruitment1/training/0007.jpg)
 _Karma Nyima leading one of the training activities._
 
-The younger team leaders played an essential supporting role, distributing materials and helping the new members through each activity. It was also nice to see how the new members in grade 8 and 9 spontaneously partnered up with one of their younger peers to help them understand the topics.
+The younger Team Leaders played an essential supporting role, distributing materials and helping the new members through each activity. It was also nice to see how the new members in grade 8 and 9 spontaneously partnered up with one of their younger peers to help them understand the topics.
 
 ![helping1](/images/recruitment1/training/0016.jpg)
-_One of the younger student leaders helping out the new members with their breadboard circuit._
+_Tsering Diki, a grade 4 Team Leader, helping out new members with their breadboard circuit._
 
 ![helping2](/images/recruitment1/training/0005.jpg)
-_One of the grade 9 students helps a new member from grade 4_
+_Karma Mendup, a new grade grade 9 member, helps Karma Gyaltsen of grade 4_
 
 The training sessions were a great first experience for the Team Leaders in running activities on their own. The were able to communicate material that was familiar to them, using the existing activity documentation as a reference.
 
