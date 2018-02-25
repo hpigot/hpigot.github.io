@@ -83,7 +83,7 @@ gallery3:
 
 In November we recruited 11 new members into the [Himalayan Makers Guild (HMG)][HMG]. Taking on new members is an indispensable part of the club's sustainability and this was a great opportunity for the [Team Leaders][] to take ownership of the club's future. They rose to the task splendidly, deciding on the number of new members, how prospective members would sign-up and be selected, and finally training the new members to help them integrate into our latest club activities.
 
-Over a period of 2 months after the formation of the club in September, 16 of the original 62 members (26%) have left the club. Ten of those students were lost their membership after missing more than two activities without giving prior notice, which is a condition they each agreed to when signing the [membership expectations][] document. Five more resigned from the club voluntarily before missing more than two activities. The gender distribution changed from 60% female to 68% female, and this change was maintained after recruitment[^1].
+Over a period of 2 months after the formation of the club in September, 16 of the original 62 members (26%) have left the club. Ten of those students lost their membership after missing more than two activities without giving prior notice, which is a condition they each agreed to when signing the [membership expectations][] document. Five more resigned from the club voluntarily before missing more than two activities. The gender distribution changed from 60% female to 68% female, and this change was maintained after recruitment[^1].
 
 ![membershipplot](/images/recruitment1/membershipplot.jpg)
 
