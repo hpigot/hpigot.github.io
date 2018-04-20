@@ -16,7 +16,7 @@ slogan:
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "An engineer from Canada here displays his inquiries."
+description: "Himalayan Makers Guild | Harry Pigot"
 
 credits: '<p>Site content &copy 2018 Harry Pigot, all rights reserved unless otherwise noted. <br>Created with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
@@ -43,7 +43,7 @@ logo: "logo.png"
 
 
 # Paginates all X entries
-paginate: 5
+paginate: 10
 
 
 # Pagination path › Important for blog page in /blog/ to work
