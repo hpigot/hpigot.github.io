@@ -66,7 +66,7 @@ The club members are split into three different groups. New members spend one se
 
 ![group icons](/images/clubstructure/group_icons.png)
 
-1.	Foundation: Each semester, newly recruited members work together to learn fundamental electronics and programming concepts in the Foundation group. These activities revised and reorganization version of those created during the first 7 months of the club's operation, taking into account all the mistakes and successes made along the way.
+1.	Foundation: Each semester, newly recruited members work together to learn fundamental electronics and programming concepts in the Foundation group. These activities are revised and reorganization versions of those created during the first 7 months of the club's operation, taking into account all the mistakes and successes made along the way.
 2.	Car Project: After a semester in the Foundation group, members build on their existing knowledge to create an Arduino-based self-driving car.
 3.	Solar Project: Members graduating from the Car Project learn more challenging electronics concepts to build a compete photovoltaic system, starting with a small solar-powered light then moving on to create solar-powered system of their own design.
 
@@ -84,7 +84,7 @@ There are two key changes to this new leadership structure:
 {% include gallery %}
 _Group Leaders guiding activities._
 
-Each week, the club activities are divided into 6 parts: a training meeting where the Group Leaders and Club Head prepare for the week's activity, then each group's activity in which the Group Leaders guide their peers. When training the Foundation Group Leaders, the Club Head conducts the week's activity with them using the lesson plan and student handout for the activity. The leaders then use those same documents to support their instruction of the group. All 12 Foundation Activities have been carefully documented to make instruction easier for the leaders. Furthermore, some of the leaders will have already done the activity before revisiting it with the Club Head which gives them an extra bit of confidence when leading their peers.
+Each week, the club activities are divided into 2 parts for each group: a training meeting where the Group Leaders and Club Head prepare for the week's activity, then each group's activity in which the Group Leaders guide their peers. When training the Foundation Group Leaders, the Club Head conducts the week's activity with them using the lesson plan and student handout for the activity. The leaders then use those same documents to support their instruction of the group. All 12 Foundation Activities have been carefully documented to make instruction easier for the leaders. Furthermore, some of the leaders will have already done the activity before revisiting it with the Club Head which gives them an extra bit of confidence when leading their peers.
 
 The activity of each project group over the course of the semester are guided by a "Project Definition and Overview" document. The documents contain:
 
@@ -159,6 +159,30 @@ The club has the foundation and structure to maintain and develop the knowledge-
 * validate model over the next two years
 
 * mention code club?
+
+## Toatl Activity Time Estimation
+
+CC:
+6x groups, 5 months Nov to Mar
+8x groups, 2 months May June
+
+6x 1.5h x 15 = 135h
+8x 1.5 x 8 = 96h
+
+HMG:
+4x groups, 7 months Aug to Feb
+3x groups, 2 months May June
+
+4x 21h = 84
+3x 8h = 24
+
+SUM: 339h (108h HMG)
+
+Weekly Now:
+
+3x 1h HMG (+3x for leaders)
+8x 1.5h CC
+
 
 [Club Setup]: /nepal/clubsetup
 [SMD school]: https://www.himalayanchildren.org/
