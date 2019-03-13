@@ -8,6 +8,8 @@ image:
     title: homepage.jpg
 ---
 
-Hi, I'm an engineer working primarily with the design and production of medical devices. After spending nearly two years working on heart and lung organ preservation technology in Sweden, I returned to the University of British Columbia to finish my degree in Electrical Engineering. In August 2017 I moved to Kathmandu, Nepal, where I am teaching programming and electronics to school children for one year. Follow what I'm up to on my [blog][1].
+Hi, I'm an engineer working primarily with medical device research and development. I'm currently exploring the application of control systems theory to improve heart and lung organ preservation technology with a great group of researchers and clinicians in Lund, Sweden. After agraduating as an Electrical Engineer from the University of British Columbia in 2017, I moved to Kathmandu, Nepal, where I spent a year starting a programming and electronics club for students aged 10 - 16. To read more about that, hop on over to my [blog][1], or try starting a similar initiative using the [open-source teaching materials I developed][2]. To see a bit about my current research, head over [here][3].
 
 [1]: {{ site.url }}{{ site.baseurl }}/blog/
+[2]: https://github.com/hpigot/hmg
+[3]: https://portal.research.lu.se/portal/en/persons/henry-pigot(9ab761c7-15f6-4b48-a183-caf4009ab6d5).html
