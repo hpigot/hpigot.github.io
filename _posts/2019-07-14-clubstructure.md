@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Where Things Left Off in 2018 - a Model for Student-Led Maker Clubs"
-teaser: "During the founding year of the club it underwent many changes in structure and schedule. Here I'll run though the story of those changes, and the details of the final club structure we settled on."
+title: "A Model for Student-Led Maker Clubs"
+teaser: "Where things left off with the Himalayan Makers Guild in 2018."
 image:
    thumb: "/clubstructure/logofinal-thumb.jpg"
 header:
