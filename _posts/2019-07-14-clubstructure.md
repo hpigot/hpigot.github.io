@@ -3,7 +3,7 @@ layout: page
 title: "A Model for Student-Led Maker Clubs"
 teaser: "Where things left off with the Himalayan Makers Guild in 2018."
 image:
-   thumb: "/clubstructure/logofinal-thumb.jpg"
+   thumb: "/clubstructure/leaders3-thumb.jpg"
 header:
     image_fullwidth: "/clubstructure/banner.jpg"
 category:
