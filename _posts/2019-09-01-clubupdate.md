@@ -19,7 +19,7 @@ category:
 #       caption:
 ---
 
-In July 2019 I had the privilege of returning to SMD school in Kathmandu to check in with the Himalayan Makers Guild, one full year after leaving the club entirely in the hands of the club members. A big thank you to Vattenhallen at Lund University for supporting my visit and the club, as well as UBC Sustaingineering for their continued help covering HMG's material costs.
+In July 2019 I had the privilege of returning to SMD school in Kathmandu to check in with the Himalayan Makers Guild, one full year after leaving the club entirely in the hands of the club members. A big thank you to [Vattenhallen]() at Lund University for supporting my visit and the club, as well as UBC Sustaingineering for their continued help covering HMG's material costs.
 
 It was exciting to visit the club when I did, about one month after Tashi Choeden stepped down as club head and passed the responsibility on to Gyaltsen. Tashi has been involved since the start in August 2017, while Gyaltsen is the first student among the regular club members to become the club head. Using the skills he's learned through the club's activities Gyaltsen is now responsible for coordinating the activites of the club's four groups and training the student leaders who teach its 50 members. If the club continues to foster great leaders like Gyaltsen then it will be able to continue educating students at SMD for years to come.
 
@@ -34,33 +34,38 @@ Gyaltsen was chosen as the club head by Tashi Choeden and the student leaders ac
 
 The club head position is filled by an SMD senior student -- one who has just graduated and is giving a year of service back to the school while developing practical skills. As such, Gyaltsen is able to focus full time on his role as club head. After his year of service, he will be followed by the next club head.
 
-## A quick look at the club in numbers
+## The club in numbers
 
 The number of students participating in the club has remained consistent (for an overview of the groups and leadership roles, see the post [Club Structure]()):
 
-Group, Students, Leaders, Total, July 2018
-Foundation, 18, 4, 22, 
-Car, 9, 3, 12, 
-Solar, 8, 3, 11, 
-Open, 10, 2, 13, not yet started (?)
-Total, , 54, 
+|            | 2018  | 2019  |          |         |
+|------------|-------|-------|----------|---------|
+| Group      | Total | Total | Students | Leaders |
+| Foundation | 15    | 22    | 18       | 4       |
+| Car        | 16    | 12    | 9        | 3       |
+| Solar      | 13    | 11    | 8        | 3       |
+| Open       | -     | 13    | 10       | 2       |
+| Total      | 44    | 54    |          | 54      |
 
-With an equal gender distribution among the schools students, the club now has xx% male and xx% female members (xx% and xx% respectively in July 2018). There is still an underrepresentation of female members among the student leaders: xx% now compared to xx% in 2018.
+With an equal gender distribution among the school's students, the club now has 56% female members (57% in July 2018). We now have an over-representation of female members among the student leaders: 67% now compared to 50% in 2018.
 
-The number of weekly activites has also remained the same. A typical week is scheduled as follows:
+## Weekly schedule
 
-time of day, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday*, Sunday
-morning before breakfast, 
-evening after dinner, 
-free time,
+The number of weekly activities has also remained the same. A typical week is scheduled as follows:
+
+| time of day               | Monday               | Tuesday                | Wednesday               | Thursday      | Friday       | Saturday* | Sunday                      |
+|---------------------------|----------------------|------------------------|-------------------------|---------------|--------------|-----------|-----------------------------|
+| morning, before breakfast |                      | Foundation Group       | Car Project             | Solar Project | Open Project |           |                             |
+| evening, after dinner     | Car - Leader Meeting | Solar - Leader Meeting | Open - - Leader Meeting |               |              |           | Foundation - Leader Meeting |
+| free time                 |                      |                        |                         |               |              |           |                             |
 
 *Saturday is the only day of the week where the student's don't have class.
 
-At the time of my visit the usual complimentary [code club]() activities were paused due to a change in the computer labs at the school. They've now resumed under the guidance of Tashi.
+At the time of my visit the usual complimentary [code club]() activities were paused due to a change in the computer labs at the school. They've now resumed with Tashi taking responsibility for the activities.
 
 ## Observations and student feedback
 
-At the end of the 2018-2019 school year (March 2019), Tashi and Gyaltsen arranged an impressive [questionaire]() to get feedback from the members. Common feedback included a desire for more confident and capable leaders who speak clearly, more variety in the activities/projects, and more programming instruction. A few key points gathered from  my discussions with Gyaltsen and a review of about 20 responses include:
+At the end of the 2018-2019 school year (March 2019), Tashi and Gyaltsen arranged an impressive [questionaire]("/files/20190500_hmg_feedback.pdf") to get feedback from the members. Common feedback included a desire for more confident and capable leaders who speak clearly, more variety in the activities/projects, and more programming instruction. A few key points gathered from  my discussions with Gyaltsen and a review of about 20 responses include:
 
 The students liked:
 
@@ -158,7 +163,7 @@ When Tashi and I first developed the HMG activities we worked as quickly as poss
 
 Gyaltsen and Tashi have since observed that even advanced club members lack understanding of some key concepts, such as making circuits using a breadboard (Foundation Activity #1). Extending the semester length from 1/2 school year (5 months) to a full school year (10 months) would allow leaders to pace the activities better with more hands-on learning, review, and regular checking of student comprehension (e.g. by asking questions throughout the activities). In the project groups, it is especially noticeable with Arduino programming; the students tend to copy and use code without really understanding what it does. Gyaltsen would like to put more focus on programming. An extended semester length would allow such extra focus and regular review of key concepts.
 
-One possible challenge with doubling the semester length is having enough hands-on activities to fill in and complement the existing curriculum. Fortunately, most of the existing activities are well suited to spending more time on, as each include extra challenges intended to occupy advanced students who complete the activity early. In addition to this, I've directed Gyaltsen to a [database of activities made available by the University of Colorado](); in particular, those using Arduinos. Another resource is a series of lesson plans recently developed by the education team at [Sustaingineering UBC]. They have kindly shared those activities with HMG and they have a lot of overlapping topics. With the extended semester HMG is well positioned to provide feedback to Sustaingineering on their new lesson plans.
+One possible challenge with doubling the semester length is having enough hands-on activities to fill in and complement the existing curriculum. Fortunately, most of the existing activities are well suited to spending more time on, as each include extra challenges intended to occupy advanced students who complete the activity early. In addition to this, I've directed Gyaltsen to a [database of activities made available by the University of Colorado][database]; in particular, those using Arduinos. Another resource is a series of lesson plans recently developed by the education team at [Sustaingineering UBC]. They have kindly shared those activities with HMG and they have a lot of overlapping topics. With the extended semester HMG is well positioned to provide feedback to Sustaingineering on their new lesson plans.
 
 The school year at SMD is full of unexpected teacher strikes and a tangled assortment of holidays from the Buddhist, Hindu, and state traditions. This can be troublesome with the club's schedule, causing the group leaders to cram in two activities into a single week to make up lost time. The extended schedule will also provide a buffer, allowing for the postponing of activities that had to be cancelled at the last minute.
 
@@ -179,3 +184,7 @@ Each activity group (Foundation, Car, Solar, Open) has 3-4 leaders who share the
 Being a student leader is a lot of work. The student's not only spend 1.5h of their free time running each weeks activity, they spend more than that again preparing for it. Gyaltsen suggested that we try to provide more perks for the leaders, to encourage students to continue to take on those positions. Specifically, do to field-trips to interesting tech-related places in Kathmandu such as our visit to [Karkhana Mela] early in 2018. From now on, they will plan to make at least one such visit each 1/2 year.
 
 ## Club finances
+
+[Vattenhallen]: http://www.vattenhallen.lth.se/
+[code club]: https://projects.raspberrypi.org/en/codeclub
+[database]: https://www.teachengineering.org/curriculum/browse?collection=Activities
