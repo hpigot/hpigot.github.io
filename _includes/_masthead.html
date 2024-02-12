@@ -44,20 +44,9 @@
 
 
 
-	
+
 
 {% elsif page.header.image_fullwidth %}
-
-<div id="masthead">
-	<!-- no logo -->
-</div><!-- /#masthead -->
-
-{% if page.breadcrumb == true %}
-{% include _breadcrumb.html %}
-{% endif %}
-
-
-{% elsif page.header.image_fullwidth_logo %}
 
 <div id="masthead">
 	<div class="row">
@@ -72,7 +61,6 @@
 {% if page.breadcrumb == true %}
 {% include _breadcrumb.html %}
 {% endif %}
-
 
 {% if page.header.caption_url && page.header.caption %}
 <div class="masthead-caption">

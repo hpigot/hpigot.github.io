@@ -18,7 +18,7 @@ slogan:
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: "Harry Pigot, biomedical engineer, researcher at Lund University. Himalayan Makers Guild - Create, Share, Inspire"
 
-credits: '<p>Site content &copy 2024 Harry Pigot, all rights reserved unless otherwise noted. <br>Created with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>Site content &copy 2018 Harry Pigot, all rights reserved unless otherwise noted. <br>Created with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
@@ -225,7 +225,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-# google_analytics_tracking_id: UA-103628548-1
+# google_analytics_tracking_id:
 
 
 

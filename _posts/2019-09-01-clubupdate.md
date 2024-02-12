@@ -3,9 +3,9 @@ layout: page
 title: "2019 Update"
 teaser: "HMG after a year of student-only operation"
 image:
-   thumb: "/clubupdate2019/"
+#    thumb: "/clubupdate2019/"
 header:
-    image_fullwidth: "/clubupdate2019/banner.jpg"
+    # image_fullwidth: "/clubupdate2019/banner.jpg"
 category:
     - nepal
 # gallery:
@@ -23,7 +23,7 @@ In July 2019 I had the privilege of returning to SMD school in Kathmandu to chec
 
 It was exciting to visit the club when I did, about one month after Tashi Choeden stepped down as club head and passed the responsibility on to Gyaltsen. Tashi has been involved since the start in August 2017, while Gyaltsen is the first student among the regular club members to become the club head. Using the skills he's learned through the club's activities Gyaltsen is now responsible for coordinating the activites of the club's four groups and training the student leaders who teach its 50 members. If the club continues to foster great leaders like Gyaltsen then it will be able to continue educating students at SMD for years to come.
 
-[gyaltsen]("/clubupdate2019/gyaltsen.jpg")
+<!-- [gyaltsen]("/clubupdate2019/gyaltsen.jpg") -->
 
 Gyaltsen was chosen as the club head by Tashi Choeden and the student leaders according to:
 
@@ -146,7 +146,7 @@ The students are getting board with seeing the same projects every semester. The
 
 Students entering the car or solar project group for the first time will have seen the projects done by other students, possibly multiple times, at the semester-end exhibitions. Even though groups are encouraged to put a new twist on their projects, the underlying theme is still repeated taking some of the excitement out of it for the new students.
 
-Starting in May 2020, we'll try a new approach. Each semester, only one of the car and solar project will occur. They will alternate semester to semester to help space out the students' exposure to them. The second project occuring each semester will be a new project previously developed by the open project groups. In these groups, the most experienced members in the club come up with a new project independently. So, the new schedule will look like this:
+Starting in May 2020, we'll try a new approach. Each semester, only one of the car and solar project will occur. They will alternate semester to semester to help space out the students' exposure to them. The second project occurring each semester will be a new project previously developed by the open project groups. In these groups, the most experienced members in the club come up with a new project independently. So, the new schedule will look like this:
 
 [new project schedule](clubstructure/)
 
